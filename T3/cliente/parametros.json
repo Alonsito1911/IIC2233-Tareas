@@ -1,0 +1,96 @@
+
+{
+  "HOST": "127.0.0.1",
+  "PORT": "55556",
+
+  "RUTA_BACK_BUTTON": "cliente/sprites/background/back_button.png",
+  "RUTA_DOJO1": "cliente/sprites/background/dojo1.png",
+  "RUTA_DOJO2": "cliente/sprites/background/dojo2.png",
+  "RUTA_DOJO3": "cliente/sprites/background/dojo3.png",
+  "RUTA_DOOR": "cliente/sprites/background/door.png",
+  "RUTA_DOOR_PRESSED": "cliente/sprites/background/door_pressed.png",
+  "RUTA_FIGHT": "cliente/sprites/background/fight.png",
+  "RUTA_INDEX1": "cliente/sprites/background/index1.png",
+  "RUTA_INDEX2": "cliente/sprites/background/index2.png",
+  "RUTA_INDEX3": "cliente/sprites/background/index3.png",
+  "RUTA_TABLE": "cliente/sprites/background/table.png",
+
+  "AZULAGUA1": "cliente/sprites/cartas/azul_agua_1.png",
+  "AZULAGUA2": "cliente/sprites/cartas/azul_agua_2.png",
+  "AZULAGUA3": "cliente/sprites/cartas/azul_agua_3.png",
+  "AZULAGUA4": "cliente/sprites/cartas/azul_agua_4.png",
+  "AZULAGUA5": "cliente/sprites/cartas/azul_agua_5.png",
+
+  "AZULFUEGO1": "cliente/sprites/cartas/azul_fuego_1.png",
+  "AZULFUEGO2": "cliente/sprites/cartas/azul_fuego_2.png",
+  "AZULFUEGO3": "cliente/sprites/cartas/azul_fuego_3.png",
+  "AZULFUEGO4": "cliente/sprites/cartas/azul_fuego_4.png",
+  "AZULFUEGO5": "cliente/sprites/cartas/azul_fuego_5.png",
+
+
+  "AZULNIEVE1": "cliente/sprites/cartas/azul_nieve_1.png",
+  "AZULNIEVE2": "cliente/sprites/cartas/azul_nieve_2.png",
+  "AZULNIEVE3": "cliente/sprites/cartas/azul_nieve_3.png",
+  "AZULNIEVE4": "cliente/sprites/cartas/azul_nieve_4.png",
+  "AZULNIEVE5": "cliente/sprites/cartas/azul_nieve_5.png",
+
+  "ROJOAGUA1": "cliente/sprites/cartas/rojo_agua_1.png",
+  "ROJOAGUA2": "cliente/sprites/cartas/rojo_agua_2.png",
+  "ROJOAGUA3": "cliente/sprites/cartas/rojo_agua_3.png",
+  "ROJOAGUA4": "cliente/sprites/cartas/rojo_agua_4.png",
+  "ROJOAGUA5": "cliente/sprites/cartas/rojo_agua_5.png",
+
+  "ROJOFUEGO1": "cliente/sprites/cartas/rojo_fuego_1.png",
+  "ROJOFUEGO2": "cliente/sprites/cartas/rojo_fuego_2.png",
+  "ROJOFUEGO3": "cliente/sprites/cartas/rojo_fuego_3.png",
+  "ROJOFUEGO4": "cliente/sprites/cartas/rojo_fuego_4.png",
+  "ROJOFUEGO5": "cliente/sprites/cartas/rojo_fuego_5.png",
+
+
+  "ROJONIEVE1": "cliente/sprites/cartas/rojo_nieve_1.png",
+  "ROJONIEVE2": "cliente/sprites/cartas/rojo_nieve_2.png",
+  "ROJONIEVE3": "cliente/sprites/cartas/rojo_nieve_3.png",
+  "ROJONIEVE4": "cliente/sprites/cartas/rojo_nieve_4.png",
+  "ROJONIEVE5": "cliente/sprites/cartas/rojo_nieve_5.png",
+
+  "VERDEAGUA1": "cliente/sprites/cartas/verde_agua_1.png",
+  "VERDEAGUA2": "cliente/sprites/cartas/verde_agua_2.png",
+  "VERDEAGUA3": "cliente/sprites/cartas/verde_agua_3.png",
+  "VERDEAGUA4": "cliente/sprites/cartas/verde_agua_4.png",
+  "VERDEAGUA5": "cliente/sprites/cartas/verde_agua_5.png",
+
+  "VERDEFUEGO1": "cliente/sprites/cartas/verde_fuego_1.png",
+  "VERDEFUEGO2": "cliente/sprites/cartas/verde_fuego_2.png",
+  "VERDEFUEGO3": "cliente/sprites/cartas/verde_fuego_3.png",
+  "VERDEFUEGO4": "cliente/sprites/cartas/verde_fuego_4.png",
+  "VERDEFUEGO5": "cliente/sprites/cartas/verde_fuego_5.png",
+
+
+  "VERDENIEVE1": "cliente/sprites/cartas/verde_nieve_1.png",
+  "VERDENIEVE2": "cliente/sprites/cartas/verde_nieve_2.png",
+  "VERDENIEVE3": "cliente/sprites/cartas/verde_nieve_3.png",
+  "VERDENIEVE4": "cliente/sprites/cartas/verde_nieve_4.png",
+  "VERDENIEVE5": "cliente/sprites/cartas/verde_nieve_5.png",
+
+  "RUTA_BACK_CARTA": "cliente/sprites/cartas/back.png",
+  "AGUAAZUL": "cliente/sprites/elementos/fichas/agua_azul.png",
+  "AGUAROJO": "cliente/sprites/elementos/fichas/agua_rojo.png",
+  "AGUAVERDE": "cliente/sprites/elementos/fichas/agua_verde.png",
+
+  "FUEGOAZUL": "cliente/sprites/elementos/fichas/fuego_azul.png",
+  "FUEGOROJO": "cliente/sprites/elementos/fichas/fuego_rojo.png",
+  "FUEGOVERDE": "cliente/sprites/elementos/fichas/fuego_verde.png",
+
+  "NIEVEAZUL": "cliente/sprites/elementos/fichas/nieve_azul.png",
+  "NIEVEROJO": "cliente/sprites/elementos/fichas/nieve_rojo.png",
+  "NIEVEVERDE": "cliente/sprites/elementos/fichas/nieve_verde.png",
+
+  "RUTA_FICHA1": "cliente/sprites/elementos/agua.png",
+  "RUTA_FICHA2": "cliente/sprites/elementos/fichas/fuego.png",
+  "RUTA_FICHA3": "cliente/sprites/elementos/fichas/nieve.png",
+
+  "CUENTA_REGRESIVA_INICIO": 5,
+  "CUENTA_REGRESIVA_JUEGO": 5
+}
+
+
